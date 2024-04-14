@@ -1,0 +1,14 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open kadai_014.html",
+            "file": "/Users/yoshidateppei/Desktop/MY_OFFICE/SAMURAI/カリキュラム/HTML:CSSの基礎を学ぼう/html-css-basic-kadai/kadai_014/kadai_014.html"
+        }
+    ]
+}
